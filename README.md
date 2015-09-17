@@ -1,2 +1,2 @@
-Start Bootstrap - Stylish Portfolio
+Hyunseo Lim's Homepage
 =========
